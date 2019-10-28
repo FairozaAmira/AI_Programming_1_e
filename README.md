@@ -5,9 +5,9 @@ A repository related to AI Programming 1(e) course in the Kyoto College of Gradu
 High school level Mathematics and basic computer knowledge
 
 ## Installation
-`Python 3.6` 
-`Jupyter Notebook`
-'Google Colaboratory`
+`Python 3.6` <br/>
+`Jupyter Notebook` <br/>
+'Google Colaboratory` <br/>
 
 ## Who's this repository for?
 Students of KCGI that register for the AI Programming 1(e)
@@ -27,3 +27,13 @@ Students of KCGI that register for the AI Programming 1(e)
 12) String Manipulation and Regular Expressions
 13) Introduction to GitHub
 14) Introduction to Data Structures and Algorithm
+
+## References
+Jake VanderPlas, “A Whirlwind Tour of Python”, O’Reilly Media Inc., 2016 <br/>
+Lisa Tagliaferri, “How to Code in Python 3”, Digital Ocean <br/>
+“GitHub and Collaboration”, “Data Structures and Algorithms in Python”, “Introduction to Python Programming”, Udacity Online Course <br/>
+Gayle Laakmann McDowell, “Cracking the Coding Interview”, Careercup, 2015. <br/>
+A. Y. Bhargava, “Grokking Algorithms,” Manning Publications, 2016
+
+## Contact
+fairoza@kcg.ac.jp
