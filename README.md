@@ -7,7 +7,7 @@ High school level Mathematics and basic computer knowledge
 ## Installation
 `Python 3.6` <br/>
 `Jupyter Notebook` <br/>
-'Google Colaboratory` <br/>
+`Google Colaboratory` <br/>
 
 ## Who's this repository for?
 Students of KCGI that register for the AI Programming 1(e)
